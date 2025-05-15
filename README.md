@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="C:\Users\suhan\Downloads\githubwall.jpg" />
+  <img src="githubimage1.gif" />
 </p>
 
 <h2 align="center">Hi 👋, I'm Suhana Thakur</h2>
