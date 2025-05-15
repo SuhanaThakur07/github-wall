@@ -1,11 +1,10 @@
-<p align="center">
-  <img src="githubimage1.gif" />
-</p>
-
 <h2 align="center">Hi 👋, I'm Suhana Thakur</h2>
 <p align="center">💻 MCA Student | 🌱 Learning AI/ML | 🚀 Aspiring Developer</p>
 
+<p align="center">
+  <img width="700px" height="220px" src="matrix.gif" />
 
+</p>
 
 ## 🔥 GitHub Stats
 
