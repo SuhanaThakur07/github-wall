@@ -9,7 +9,6 @@
 ## 🔥 GitHub Stats
 
 ![Suhana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suhanathakur07&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuhanaThakur07&layout=compact&theme=radical)
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/SuhanaThakur07)
@@ -38,9 +37,10 @@
 - 📧 Email: thakursuhana07@gmail.com  
 - 📞 Phone: +91-7649099334  
 - 📍 Location: Dewas, Madhya Pradesh, India
-- 🌐  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github)](https://github.com/SuhanaThakur07/SuhanaThakur.github.io)
+- 🌐 portfolio: (https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github)] 
+     (https://github.com/SuhanaThakur07/SuhanaThakur.github.io)
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)      
+- Linkdin:(https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)      
 
 
 ---
